@@ -1,0 +1,1 @@
+sns.pairplot(df, hue ='kyphosis') # kyphosis is a spinal code dieseas. this code is plot dataframe in pairplot
